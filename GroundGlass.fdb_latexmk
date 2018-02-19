@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex GroundGlass"] 1518139753 "GroundGlass.aux" "GroundGlass.bbl" "GroundGlass" 1518532853
+["bibtex GroundGlass"] 1518139753 "GroundGlass.aux" "GroundGlass.bbl" "GroundGlass" 1519059978
   "/usr/local/texlive/2017/texmf-dist/bibtex/bst/base/ieeetr.bst" 1480098433 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "GroundGlass.aux" 1518532853 1373 21da9d603c1bfe876d810e2d46809f84 ""
+  "GroundGlass.aux" 1519059977 1373 21da9d603c1bfe876d810e2d46809f84 ""
   "references.bib" 1518138932 12909 a94ebcf1929105af89d7123ee518cf26 ""
   (generated)
   "GroundGlass.blg"
   "GroundGlass.bbl"
-["pdflatex"] 1518532852 "GroundGlass.tex" "GroundGlass.pdf" "GroundGlass" 1518532853
+["pdflatex"] 1519059977 "GroundGlass.tex" "GroundGlass.pdf" "GroundGlass" 1519059978
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -43,10 +43,10 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1518527986 2542651 869fe163abddb345701fd334f4b1164c ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1518528036 4131551 612acf1f87ce7c32accfd2b3c3ff7767 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "GroundGlass.aux" 1518532853 1373 21da9d603c1bfe876d810e2d46809f84 ""
+  "GroundGlass.aux" 1519059977 1373 21da9d603c1bfe876d810e2d46809f84 ""
   "GroundGlass.bbl" 1518139754 1817 1c07d947520bccdec17d37e822e28048 "bibtex GroundGlass"
-  "GroundGlass.tex" 1518532851 7820 8b68829b654e9e7c805c1d09d4b99349 ""
+  "GroundGlass.tex" 1519059974 7807 99108ba9e25e5b017db769bb93c67c83 ""
   (generated)
-  "GroundGlass.pdf"
   "GroundGlass.log"
+  "GroundGlass.pdf"
   "GroundGlass.aux"
